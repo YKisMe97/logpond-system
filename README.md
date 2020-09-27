@@ -1,0 +1,2 @@
+# logpond-system
+A mobile application that used to recorded all wood logs cut by lumberjacks into company’s system. Users can insert the species, length and the details of the wood log and saved it into phone storage. This system is able to save the information in mobile storage without Internet because the Internet signal in the forest is bad, we let users able to save the data offline. After finished all of the works and they back from work. They sent the data into company database system by clicking “Send Data” button.
